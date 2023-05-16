@@ -1,5 +1,5 @@
 {
-  "name": "webpack-boilerplate",
+  "name": "setup-project-with-Webpack",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mosidrum/webpack-boilerplate"
+    "url": "git+https://github.com/clin2on3mun/setup-project-with-Webpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mosidrum/webpack-boilerplate/issues"
+    "url": "https://github.com/clin2on3mun/setup-project-with-Webpack/issues"
   },
-  "homepage": "https://github.com/mosidrum/webpack-boilerplate#readme",
+  "homepage": "https://github.com/clin2on3mun/setup-project-with-Webpack#readme",
   "devDependencies": {
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.1",
